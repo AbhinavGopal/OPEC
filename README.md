@@ -1,10 +1,5 @@
 # OPEC
-189 Project Team OPEC authors:
-William McEachen
-Grace Kull
-Abhinav Gopal
-Shrey Vasavada
-Jai Bansal
+189 Project Team OPEC authors: Abhinav Gopal, Shrey Vasavada
 
 **Project Objective:** The overall goal is for students to practice using NumPy data structures to create basic linear regression models and other matrix operations. Students will understand the basic data structures of NumPy, including arrays and matrices, and some matrix operations. Students will also practice updating an existing array, which is a very valuable skill in coursework and industry. Then students will verify basic linear algebra results with matrix operations in NumPy. Finally, students explore polynomial featurization, which essentially applies many earlier NumPy skills.
 
